@@ -1,17 +1,16 @@
 # Zayn
 ### Cloud Infrastructure Engineer · Platform Engineering · AWS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=flat)](https://YOUR_PORTFOLIO_URL)
 
 ---
 
 ### About Me
-I am a **Cloud Infrastructure Engineer** focused on designing secure, scalable, and cost-efficient platforms using **First Principles Thinking**.
+I am a **Cloud Infrastructure Engineer** focused on AWS and Platform Engineering.
 
-My approach centers on **Architectural Discipline**: I don't just provision resources; I engineer systems with **FinOps** and **Security by Design** at the core. I specialize in maximizing value from cloud providers, proving that enterprise-grade architecture stems from smart engineering, not unlimited budgets.
+I build secure, automated infrastructure using **First Principles**. I combine **Infrastructure as Code** with **FinOps** strategies to engineer systems that are efficient by design. My goal is to master the craft of building production-grade platforms without unnecessary complexity or cost.
 
-Currently executing a rigorous portfolio of production-grade infrastructure projects to demonstrate advanced architectural patterns.
+Currently executing a portfolio of infrastructure projects to demonstrate core engineering patterns.
 
 ### What I Build
 *   **Immutable Infrastructure:** Baking security into AMIs with Packer & Ansible.
@@ -49,10 +48,3 @@ Currently executing a rigorous portfolio of production-grade infrastructure proj
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-5F43E9?style=flat&logo=hashicorp&logoColor=white)
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=999" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=white&text_color=999" height="150" alt="streak graph"  />
-</div>
