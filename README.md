@@ -1,12 +1,12 @@
 # Zayn
-### Cloud Infrastructure Engineer · Platform Engineering · AWS
+### Cloud Engineer · DevOps · AWS
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=flat)](https://YOUR_PORTFOLIO_URL)
 
 ---
 
 ### About Me
-I am a **Cloud Infrastructure Engineer** focused on AWS and Platform Engineering.
+I am a **Cloud Engineer** focused on AWS and Platform Engineering.
 
 I build secure, automated infrastructure using **First Principles**. I combine **Infrastructure as Code** with **FinOps** strategies to engineer systems that are efficient by design. My goal is to master the craft of building production-grade platforms without unnecessary complexity or cost.
 
@@ -14,8 +14,8 @@ Currently executing a portfolio of infrastructure projects to demonstrate core e
 
 ### What I Build
 *   **Immutable Infrastructure:** Baking security into AMIs with Packer & Ansible.
-*   **Resilient Networks:** Architecting Multi-AZ VPCs without costly NAT Gateways.
-*   **Observability:** Full-stack monitoring with Prometheus & Grafana.
+*   **Resilient Networks:** Architecting Multi-AZ VPCs
+*   **Observability:** Monitoring with Prometheus & Grafana.
 *   **Automation:** Self-hosted CI/CD runners and "Ops-in-a-Box" solutions.
 
 ---
